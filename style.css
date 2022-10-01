@@ -1,0 +1,50 @@
+
+
+*{
+
+  padding: 0;
+}
+
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+p{
+  font-size: 15px;
+  position: relative;
+  bottom: 25px;
+  padding: 0 30px;
+  font-family: Outfit;
+  color: hsl(220, 15%, 55%);
+}
+
+h3{
+  position: relative;
+  bottom: 15px;
+  padding :0 18px;
+  font-family: Outfit;
+  font-size: 23px;
+
+
+}
+
+
+
+.image{
+
+ margin: 15px;
+ height:  300px;
+ background-color: blue;
+ background-image: url("images/image-qr-code.png");
+ background-position: center;
+ background-size: cover;
+ border-radius: 10px;
+}
+.card{
+ display: grid;
+ background-color: white;
+ margin: 120px auto;
+ width: 320px;
+ height: 510px;
+ border-radius: 20px;
+ text-align: center;
+}
